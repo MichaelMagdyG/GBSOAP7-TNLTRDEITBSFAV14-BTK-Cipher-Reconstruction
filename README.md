@@ -1,3 +1,5 @@
+<img width="752" height="634" alt="image" src="https://github.com/user-attachments/assets/93aed3ec-a880-442c-b76c-69f05e9e0f0e" />
+
 # BTK 2004 Cipher Visualization & Analysis
 
 A Python visualization and reconstruction project examining the 2004 **BTK ("Bind, Torture, Kill") coded message** attributed to Dennis Rader.
